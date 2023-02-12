@@ -4,7 +4,7 @@
 </h3>
 <img src="https://media2.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif?cid=790b76118b99a3f81568a6fe4278b13f21c39b243bd95337&rid=giphy.gif&ct=s" align="right" alt="spin spin" width="200">
 
-- 👨‍💻 Portfolio & Resume [https://alijansizzz.wixsite.com/ali-jansiz](https://alijansizzz.wixsite.com/ali-jansiz)
+<!-- - 👨‍💻 Portfolio & Resume [https://alijansizzz.wixsite.com/ali-jansiz](https://alijansizzz.wixsite.com/ali-jansiz) -->
 
 - 📫 How to reach me **ali.jansizzz@gmail.com**
 
