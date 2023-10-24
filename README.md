@@ -22,4 +22,3 @@
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jansiz&show_icons=true&locale=en" alt="jansiz" /></p> -->
 
-![Snake animation](https://github.com/Jansiz/Jansiz/blob/output/github-contribution-grid-snake.svg)
