@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ali Jansiz</h1>
 <h3 align="center">A passionate Software Engineer from Canada
 </h3>
-<img src="https://media2.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif?cid=790b76118b99a3f81568a6fe4278b13f21c39b243bd95337&rid=giphy.gif&ct=s" align="right" alt="spin spin" width="200">
+<img src=""https://giphy.com/embed/X9GtO5UtcD06nJHyKh" align="right" alt="spin spin" width="200">
 
 <!-- - 👨‍💻 Portfolio & Resume [https://alijansizzz.wixsite.com/ali-jansiz](https://alijansizzz.wixsite.com/ali-jansiz) -->
 
