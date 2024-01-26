@@ -1,7 +1,6 @@
-![MasterHead](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXdna2VoNjFscGJ2MzU2ZTBib2I3ajB4bjh5Z21sb29hNjJ0eDUwZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X9GtO5UtcD06nJHyKh/giphy.gif)
+![MasterHead](https://media.giphy.com/media/KX5nwoDX97AtPvKBF6/giphy.gif)
 <h1 align="center">Hi 👋, I'm Ali Jansiz</h1>
-<h3 align="center">A passionate Software Engineer from Canada
-</h3>
+<h3 align="center">A passionate Software Engineer from Canada</h3>
 
 <!-- - 👨‍💻 Portfolio & Resume [https://alijansizzz.wixsite.com/ali-jansiz](https://alijansizzz.wixsite.com/ali-jansiz) -->
 
