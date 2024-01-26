@@ -1,5 +1,3 @@
-              
-![MasterHead](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 <h1 align="center">Hi 👋, I'm Ali Jansiz</h1>
 <h3 align="center">A passionate Software Engineer from Canada</h3>
 
