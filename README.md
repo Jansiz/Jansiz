@@ -11,11 +11,23 @@ This ongoing adventure has been filled with continuous learning, and I invite yo
 <p align="centre">
 <img align="center" src="https://github.com/Jansiz/Jansiz/assets/46177966/a3bc14f1-747b-4508-9e44-c6c1361bf574" alt="jansiz" height="30" width="40" />
 <br.
-<p> : nightclub and event venue website for Leighway Enterprice Inc. </p>
+<p> : Nightclub and event venue website for Leighway Enterprice Inc. </p> 
+
+  
+ ![Static Badge](https://img.shields.io/badge/Typescript-lightblue) ![Static Badge](https://img.shields.io/badge/Figma-pink)
+ ![Static Badge](https://img.shields.io/badge/React-blue) ![Static Badge](https://img.shields.io/badge/Node.js-lightgreen) ![Static Badge](https://img.shields.io/badge/MangoDB-darkgreen) ![Static Badge](https://img.shields.io/badge/HTML-orange) ![Static Badge](https://img.shields.io/badge/CSS-darkblue) ![70%](https://progress-bar.dev/70)
+
+
+
+ 
+
  <img align="center" src="https://github.com/Jansiz/Jansiz/assets/46177966/9577bbf7-a45f-418b-9a4d-6726d2065c14" alt="jansiz" height="30" width="40" />
  <br.
 <p> : Country bar website for Leighway Enterprice Inc. </p>
-</p>
+
+ ![Static Badge](https://img.shields.io/badge/Typescript-lightblue) ![Static Badge](https://img.shields.io/badge/Figma-pink)
+ ![Static Badge](https://img.shields.io/badge/React-blue) ![Static Badge](https://img.shields.io/badge/Node.js-lightgreen) ![Static Badge](https://img.shields.io/badge/MangoDB-darkgreen) ![Static Badge](https://img.shields.io/badge/HTML-orange) ![Static Badge](https://img.shields.io/badge/CSS-darkblue) ![40%](https://progress-bar.dev/40)
+
 
 
 
