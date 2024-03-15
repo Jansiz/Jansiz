@@ -7,11 +7,16 @@ Through this journey, I've learned that being a sincere software engineer transc
 
 This ongoing adventure has been filled with continuous learning, and I invite you to join me. Together, let's weave elegant and scalable solutions, embracing the challenges and excitement of the ever-growing world of technology. </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/jansiz" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jansiz" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/alij20" target="blank">
-   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="alij20" height="30" width="40" />
-  </a>
+<h2>Projects I am working on</h2>
+<p align="centre">
+<img align="center" src="https://github.com/Jansiz/Jansiz/assets/46177966/a3bc14f1-747b-4508-9e44-c6c1361bf574" alt="jansiz" height="30" width="40" />
+<br.
+<p> : nightclub and event venue website for Leighway Enterprice Inc. </p>
+ <img align="center" src="https://github.com/Jansiz/Jansiz/assets/46177966/9577bbf7-a45f-418b-9a4d-6726d2065c14" alt="jansiz" height="30" width="40" />
+ <br.
+<p> : Country bar website for Leighway Enterprice Inc. </p>
 </p>
+
+
+
+
